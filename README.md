@@ -1,5 +1,11 @@
-## Hi there 👋
-
+## How I got here
+I am a retired systems analyst with roots in physics and math (by training) and computer science (by doing). Having grown up when 2nd generation computers were around, I have worked with many hw and sw platforms. At one point, I was working with a friend repairing personal computers with were built by individuals from kits (yep, that was a thing). He and I came up with an idea that you could make a personel computer protable and even had an idea that sale people could use it on the road to take orders and then dump them to a mainframe when they got back to the office. Unfortunately for us, a fellow named Adam Osborne beat us to the punch and the mobile personal computer took off. This was all prior the web. Floppy disks were the thing.
+## My current projects and learning
+Currently I am dabbling with client/server applications of different sorts, exploring various languages and frameworks. I've explored javascript, jquery, pug, mongoose, mysql, react, vite, R, QtDesigner to name a few. I'm always game for a new idea. 
+## My biggest concern
+My biggest concern with modern programming is the lack of stability of langauges and frameworks. I come from a background where compilers and interpreters were certifed before they were used. Today, we get major and minor releases quite frequently and some major releases cause all sorts of integration problems is applied to existing projects. I know that things are advancing fast, but this instability causes lots of opportunities for broken code and security intrusions.
+## Outreach
+I am reachable at my email address 📫 blane245@gmail.com
 <!--
 **Blane245/Blane245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
