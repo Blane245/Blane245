@@ -5,7 +5,8 @@ Currently I am dabbling with client/server applications of different sorts, expl
 ## My biggest concern
 My biggest concern with modern programming is the lack of stability of langauges and frameworks. I come from a background where compilers and interpreters were certifed before they were used. Today, we get major and minor releases quite frequently and some major releases cause all sorts of integration problems is applied to existing projects. I know that things are advancing fast, but this instability causes lots of opportunities for broken code and security intrusions.
 ## Outreach
-I am reachable at my email address 📫 blane245@gmail.com
+I am reachable at my email address 📫 blane245@gmail.com.
+My website is [blane.fun](blane.fun)
 <!--
 **Blane245/Blane245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
