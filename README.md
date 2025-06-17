@@ -3,7 +3,7 @@ I am a retired systems analyst with roots in physics and math (by training) and 
 ## My current projects and learning
 Currently I am dabbling with client/server applications of different sorts, exploring various languages and frameworks. I've explored javascript, jquery, pug, mongoose, mysql, react, vite, R, QtDesigner to name a few. I'm always game for a new idea. 
 ## My biggest concern
-My biggest concern with modern programming is the lack of stability of langauges and frameworks. I come from a background where compilers and interpreters were certifed before they were used. Today, we get major and minor releases quite frequently and some major releases cause all sorts of integration problems is applied to existing projects. I know that things are advancing fast, but this instability causes lots of opportunities for broken code and security intrusions.
+My biggest concern with modern programming is the lack of stability of languages and frameworks. I come from a background where compilers and interpreters were certifed before they were used. Today, we get major and minor releases quite frequently and some major releases cause all sorts of integration problems if applied to existing projects. I know that things are advancing fast, but this instability causes lots of opportunities for broken code and security intrusions.
 ## Outreach
 I am reachable at my email address 📫 blane245@gmail.com.
 My website is [blane.fun](blane.fun)
